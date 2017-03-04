@@ -1,0 +1,5 @@
+C:\Users\nuno_\OneDrive\Documents\Visual Studio 2015\Projects\PokemonPM\PokemonPM\bin\Release\PokemonPM.exe.config
+C:\Users\nuno_\OneDrive\Documents\Visual Studio 2015\Projects\PokemonPM\PokemonPM\bin\Release\PokemonPM.exe
+C:\Users\nuno_\OneDrive\Documents\Visual Studio 2015\Projects\PokemonPM\PokemonPM\bin\Release\PokemonPM.pdb
+C:\Users\nuno_\OneDrive\Documents\Visual Studio 2015\Projects\PokemonPM\PokemonPM\obj\Release\PokemonPM.exe
+C:\Users\nuno_\OneDrive\Documents\Visual Studio 2015\Projects\PokemonPM\PokemonPM\obj\Release\PokemonPM.pdb

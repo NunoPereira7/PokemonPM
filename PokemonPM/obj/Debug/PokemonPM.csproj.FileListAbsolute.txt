@@ -1,0 +1,5 @@
+c:\users\nuno_\onedrive\documents\visual studio 2015\Projects\PokemonPM\PokemonPM\bin\Debug\PokemonPM.exe.config
+c:\users\nuno_\onedrive\documents\visual studio 2015\Projects\PokemonPM\PokemonPM\bin\Debug\PokemonPM.exe
+c:\users\nuno_\onedrive\documents\visual studio 2015\Projects\PokemonPM\PokemonPM\bin\Debug\PokemonPM.pdb
+c:\users\nuno_\onedrive\documents\visual studio 2015\Projects\PokemonPM\PokemonPM\obj\Debug\PokemonPM.exe
+c:\users\nuno_\onedrive\documents\visual studio 2015\Projects\PokemonPM\PokemonPM\obj\Debug\PokemonPM.pdb
